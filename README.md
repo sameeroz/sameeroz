@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sameeroz
-- 👀 I’m interested in Mobile Development
-- 🌱 Flutter developer
+- 👀 I’m interested in Mobile Development and Data science
+- 🌱 Mobile application developer
 - 📫 How to reach me ?? gdrboy11@gmail.com
