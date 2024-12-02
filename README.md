@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @sameeroz
-- 👀 I’m interested in Mobile Development and Data science
+- ♣️ AWS CLOUD CLUB CAPTAIN at IUTT
+- 👨‍💻 RAG Systems engineer
 - 🌱 Mobile application developer
+- 🎓 Computer Science graduate
+- 👀 I’m interested in Mobile Development and AI and Enthusiastic about cloud computing specially in AWS
 - 📫 How to reach me ?? gdrboy11@gmail.com
